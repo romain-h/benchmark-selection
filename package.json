@@ -1,0 +1,21 @@
+{
+  "name": "benchmark-test-suite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "babel-core": "^5.8.25",
+    "babel-loader": "^5.3.2",
+    "benchmark": "^1.0.0",
+    "immutable": "^3.7.5",
+    "lodash": "^3.10.1",
+    "microtime": "^2.0.0",
+    "webpack": "^1.12.2"
+  }
+}
